@@ -1,0 +1,32 @@
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	border: 5px solid #ddd;
+}
+label{
+	font-size:25px; 
+}
+.first-name,.last-name,.email,.password,.gender{
+	width: 90%;
+	height:20px;
+	padding:10px;
+	font-size:18px;
+}
+.message{
+	padding: 10px;
+	font-size: 18px;
+}
+table{
+	width: 100%;
+	border: 1px solid black;
+}
+tr,td{
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid black;
+}
+caption{
+	font-size: 25px;
+
+}
+
